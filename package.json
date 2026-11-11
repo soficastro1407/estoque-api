@@ -1,0 +1,29 @@
+{
+  "name": "estoque-api",
+  "version": "1.0.0",
+  "description": "projeto simples de controle de estoque",
+  "homepage": "https://github.com/soficastro1407/estoque-api#readme",
+  "bugs": {
+    "url": "https://github.com/soficastro1407/estoque-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soficastro1407/estoque-api.git"
+  },
+  "license": "ISC",
+  "author": "castrosofia1407@gmail.com",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
