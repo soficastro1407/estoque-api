@@ -1,17 +1,17 @@
 {
   "name": "estoque-api",
   "version": "1.0.0",
-  "description": "projeto simples de controle de estoque",
-  "homepage": "https://github.com/soficastro1407/estoque-api#readme",
+  "description": "Projeto simples de controle de estoque",
+  "homepage": "https://github.com/welligtonjunior-dev/estoque-api#readme",
   "bugs": {
-    "url": "https://github.com/soficastro1407/estoque-api/issues"
+    "url": "https://github.com/welligtonjunior-dev/estoque-api/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soficastro1407/estoque-api.git"
+    "url": "git+https://github.com/welligtonjunior-dev/estoque-api.git"
   },
   "license": "ISC",
-  "author": "castrosofia1407@gmail.com",
+  "author": "welligtonjunior12345@gmail.com",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
